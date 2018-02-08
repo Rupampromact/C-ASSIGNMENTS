@@ -1,0 +1,7 @@
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\PrimeMinister\Politics\Politics\bin\Debug\Politics.exe.config
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\PrimeMinister\Politics\Politics\bin\Debug\Politics.exe
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\PrimeMinister\Politics\Politics\bin\Debug\Politics.pdb
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\PrimeMinister\Politics\Politics\obj\Debug\Politics.csproj.CoreCompileInputs.cache
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\PrimeMinister\Politics\Politics\obj\Debug\Politics.exe
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\PrimeMinister\Politics\Politics\obj\Debug\Politics.pdb
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\PrimeMinister\Politics\Politics\obj\Debug\Politics.csprojResolveAssemblyReference.cache

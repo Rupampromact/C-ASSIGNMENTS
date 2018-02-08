@@ -1,0 +1,7 @@
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Product\Product\bin\Debug\Product.exe.config
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Product\Product\bin\Debug\Product.exe
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Product\Product\bin\Debug\Product.pdb
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Product\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Product\Product\obj\Debug\Product.exe
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Product\Product\obj\Debug\Product.pdb
