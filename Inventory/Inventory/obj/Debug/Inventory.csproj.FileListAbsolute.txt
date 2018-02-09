@@ -5,3 +5,10 @@ C:\Users\RUPAM\Desktop\C# Assignments\Inventory\Inventory\obj\Debug\Inventory.cs
 C:\Users\RUPAM\Desktop\C# Assignments\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
 C:\Users\RUPAM\Desktop\C# Assignments\Inventory\Inventory\obj\Debug\Inventory.exe
 C:\Users\RUPAM\Desktop\C# Assignments\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\RUPAM\Desktop\C# Assignments\Assignment 1\Inventory\Inventory\obj\Debug\Inventory.pdb

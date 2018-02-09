@@ -28,7 +28,12 @@ namespace Inventory
                     count++;
             }
             Console.WriteLine("The no of strings containing tomato"+" "+count);
-            Console.WriteLine("The indexes are:" + invent.FindIndex(collection => collection.SequenceEqual("Potato")) + " " + invent.FindLastIndex(collection => collection.SequenceEqual("Potato")));
+            //Console.WriteLine("The indexes are:" + invent.FindIndex(collection => collection.SequenceEqual("Potato")) + " " + invent.FindLastIndex(collection => collection.SequenceEqual("Potato")));
+            var result = invent.Select((c, i) => new { String = c, index = i })
+                        .Where(list => list.String == "Potato")
+                        .ToList();
+            foreach (var i in result)
+                Console.WriteLine(i);
         }
     }
 }
