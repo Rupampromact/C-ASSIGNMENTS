@@ -40,10 +40,11 @@ namespace SwitchProduct
             Console.WriteLine("Press 2 for calculating average prize");
             Console.WriteLine("Press 3 for identifying costly products");
             Console.WriteLine("Press 4 for Exit");
-            while (true)
+            int ch = 0;
+            while (ch<=3)
             {
                 Console.WriteLine("Enter your choice:");
-                int ch = int.Parse(Console.ReadLine());
+                 ch = int.Parse(Console.ReadLine());
                 switch (ch)
                 {
                     case 0:
